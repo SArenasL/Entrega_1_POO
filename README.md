@@ -6,4 +6,4 @@
 <h2 align="center"> Estudiante: </h2>
 <em><p align="center">Sebastian Arenas Lujan</p></em>
 <br>
-<h2 align="center"> Universidad Nacional de Colombia – Sede Medellín Facultad de Minas </h2>
+<h2 align="center"> Universidad Nacional de Colombia – Sede Medellín </h2>
