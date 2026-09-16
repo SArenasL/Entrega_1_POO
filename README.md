@@ -2,7 +2,7 @@
 <br>
 <br>
 <h2 align="center"> Docente: </h2>
-<em><p align="center">Walter Hugo Arboleda Mazo, Ph.D.</p></em>
+<em><p align="center">Walter Hugo Arboleda Mazo</p></em>
 <h2 align="center"> Estudiante: </h2>
 <em><p align="center">Sebastian Arenas Lujan</p></em>
 <br>
